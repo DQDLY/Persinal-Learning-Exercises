@@ -1,4 +1,4 @@
-# cpp-exercises
+# Personal-learning-exercises
 
 This repository is for learning programming.
 
