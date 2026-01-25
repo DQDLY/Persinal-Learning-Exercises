@@ -17,6 +17,6 @@ int main()
     {
         int down;
         cin >> down;
-        cout << num[down] << endl;
+        cout << *(num.begin() + down) << endl;
     }
 }
