@@ -29,5 +29,4 @@ int fun(int n)
     }
     int S = stoi(s);
     return S;
-
 }
